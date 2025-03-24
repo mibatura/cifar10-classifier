@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+*.env
+
+# PyTorch model files
+*.pth
+*.pt
+
+# Data files
+*.tar.gz
+*.zip
+data/
+datasets/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
